@@ -19,11 +19,6 @@ MAN_DIR 		=
 
 MAN_SRCS		=	main.c $(MAN_DIR)
 
-# Object files by directory
-
-#MAN_OBJS = $(MAN_SRCS:.c=.o)
-#BON_OBJS = $(BON_SRCS:.c=.o)
-
 # Marker files to track which version is built
 #mandatory : .mandatory
 #bonus : .bonus
